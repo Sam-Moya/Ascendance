@@ -1,3 +1,6 @@
+# Ascendance
+Precise attendance tracking yields precise accountability. Ascendance benefits students, parents, and school owners alike, to be more punctual and responsible for the sake of safety and legal assurance.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
